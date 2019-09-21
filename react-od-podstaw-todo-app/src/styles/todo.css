@@ -1,0 +1,12 @@
+.Todo {
+  position: relative;
+  padding: 0.25rem;
+  margin-top: 1rem;
+  background-color: #26a69a;;
+}
+
+.Close { 
+  position: absolute;
+  right: 0;
+  margin-right: 1rem;
+}

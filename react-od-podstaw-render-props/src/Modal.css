@@ -1,0 +1,28 @@
+.Overlay {
+  position: fixed;
+  background-color: rgb(128, 128, 128, 50%);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.Modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
+
+.Card {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+}
+
+.Card_content {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}

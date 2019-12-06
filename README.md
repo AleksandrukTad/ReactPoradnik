@@ -1,5 +1,7 @@
 # React Poradnik 
 
+https://www.youtube.com/playlist?list=PLhZynnUPiyGlu2KZR7kxeFbnsyVI8tI5k
+
 Seria poradników do ReactJs, która ma was nauczyć podstaw oraz dobrych praktyk w ReactJs.
 
 
